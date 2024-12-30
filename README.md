@@ -1,1 +1,1 @@
-This repository is for practising GitHub Flow.
+The repository is meant for practising GitHub Flow. 
